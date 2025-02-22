@@ -1,0 +1,2 @@
+facts dimensions
+numeric categorical data
